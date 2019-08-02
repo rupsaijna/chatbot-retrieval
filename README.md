@@ -19,8 +19,10 @@ pip install numpy scikit-learn pandas jupyter
 
 
 Download the train/dev/test data [here](https://drive.google.com/open?id=0B_bZck-ksdkpVEtVc1R6Y01HMWM) and extract the acrhive into `./data`.
-
-
+```
+pip install gdown
+$gdown https://drive.google.com/uc?id=0B_bZck-ksdkpVEtVc1R6Y01HMWM
+```
 #### Training
 
 ```
